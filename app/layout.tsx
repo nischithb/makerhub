@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Makerhub",
-  description: "Launch or showcase your next big idea or discover latest shipped products that everyone's talking about",
+  description:
+    "Launch or showcase your next big idea or discover latest shipped products that everyone's talking about",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

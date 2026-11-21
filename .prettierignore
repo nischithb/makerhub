@@ -1,0 +1,9 @@
+node_modules
+.next
+
+# Generated files
+next-env.d.ts
+
+# Ignore artifacts:
+build
+coverage

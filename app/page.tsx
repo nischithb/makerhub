@@ -4,4 +4,4 @@ export default function Home() {
       <h1>Makerhub</h1>
     </div>
   );
-} 
+}
